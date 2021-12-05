@@ -1,0 +1,20 @@
+{
+  "name": "Harsh_212CS031_assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node source/main_site.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh-9727/Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsh-9727/Resume/issues"
+  },
+  "homepage": "https://github.com/Harsh-9727/Resume#readme"
+}
