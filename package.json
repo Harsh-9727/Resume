@@ -1,7 +1,6 @@
 {
   "name": "Harsh_212CS031_assignment3",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node source/main_site.js"
@@ -16,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Harsh-9727/Resume/issues"
   },
-  "homepage": "https://github.com/Harsh-9727/Resume#readme"
+  "homepage": "https://github.com/Harsh-9727/Resume#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "description": ""
 }
